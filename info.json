@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4bc5be455a9482f921c2b6172660f759bd8a3d31",
+    "author": "Thomas Klebel <t.klebel@hotmail.com>",
+    "time": "2023-07-23 06:18:06",
+    "files": 1,
+    "merge": false,
+    "message": "submit to CRAN\n"
+  },
+  "repo": "https://github.com/ropensci/jstor",
+  "pkg": "jstor"
+}
